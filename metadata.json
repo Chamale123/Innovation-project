@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance System",
+  "description": "A full-stack web application for a fingerprint-based Smart Attendance System with real-time tracking, user management, and reporting.",
+  "requestFramePermissions": []
+}
